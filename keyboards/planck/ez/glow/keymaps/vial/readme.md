@@ -12,6 +12,10 @@ To easily install, no wally required, you can do.
 
 ```shell
 qmk flash -kb planck/ez/glow -km vial
+
+or better
+
+make planck/ez/glow:vial:flash
 ```
 
 Warning: if you flash this image with incorrect enough data, such as flashing the rev6 version, wally will not recognize your keyboard and qmk will be your only recourse.
