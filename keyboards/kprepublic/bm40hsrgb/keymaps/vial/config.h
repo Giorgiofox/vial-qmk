@@ -7,4 +7,5 @@
 // to unlock the keyboard
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 2 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 11 }
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
 

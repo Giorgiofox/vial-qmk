@@ -25,6 +25,17 @@
 #define AUDIO_PIN_ALT A4
 #define AUDIO_PIN_ALT_AS_NEGATIVE
 
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
+
+#define ORYX_CONFIGURATOR
+
+#define PLANCK_EZ_LED_LOWER 1
+#define PLANCK_EZ_LED_RAISE 2
+#define PLANCK_EZ_LED_ADJUST 3
+
+#define RGBLIGHT_SLEEP
+
+#define BILATERAL_COMBINATIONS 500
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.

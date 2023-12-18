@@ -7,3 +7,4 @@
 #define VIAL_UNLOCK_COMBO_COLS {0, 5}
 
 #define MIDI_ADVANCED
+#define RGBLIGHT_SLEEP

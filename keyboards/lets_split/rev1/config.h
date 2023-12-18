@@ -23,6 +23,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
 
+#define MATRIX_ROW_PINS { B5, B4, E6, D7 }
+#define MATRIX_COL_PINS { F4, F5, F6, F7, B1, B3 }
+#define DIODE_DIRECTION COL2ROW
+#define SOFT_SERIAL_PIN D0
+
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
